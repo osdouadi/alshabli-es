@@ -64,7 +64,7 @@ export const htmlData = `
             padding: 12px 0;
             border-bottom: 1px solid #e4d5de;
             font-size: 16px;
-            text-align: right;
+            text-align: left;
         }
 
         .info-item strong {
